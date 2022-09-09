@@ -1,0 +1,2 @@
+# purr
+A Kattis CLI
