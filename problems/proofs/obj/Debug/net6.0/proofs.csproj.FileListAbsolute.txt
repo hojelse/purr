@@ -1,0 +1,15 @@
+/home/hojelse/repo/lillekat-2/proofs/bin/Debug/net6.0/proofs
+/home/hojelse/repo/lillekat-2/proofs/bin/Debug/net6.0/proofs.deps.json
+/home/hojelse/repo/lillekat-2/proofs/bin/Debug/net6.0/proofs.runtimeconfig.json
+/home/hojelse/repo/lillekat-2/proofs/bin/Debug/net6.0/proofs.dll
+/home/hojelse/repo/lillekat-2/proofs/bin/Debug/net6.0/proofs.pdb
+/home/hojelse/repo/lillekat-2/proofs/obj/Debug/net6.0/proofs.csproj.AssemblyReference.cache
+/home/hojelse/repo/lillekat-2/proofs/obj/Debug/net6.0/proofs.GeneratedMSBuildEditorConfig.editorconfig
+/home/hojelse/repo/lillekat-2/proofs/obj/Debug/net6.0/proofs.AssemblyInfoInputs.cache
+/home/hojelse/repo/lillekat-2/proofs/obj/Debug/net6.0/proofs.AssemblyInfo.cs
+/home/hojelse/repo/lillekat-2/proofs/obj/Debug/net6.0/proofs.csproj.CoreCompileInputs.cache
+/home/hojelse/repo/lillekat-2/proofs/obj/Debug/net6.0/proofs.dll
+/home/hojelse/repo/lillekat-2/proofs/obj/Debug/net6.0/refint/proofs.dll
+/home/hojelse/repo/lillekat-2/proofs/obj/Debug/net6.0/proofs.pdb
+/home/hojelse/repo/lillekat-2/proofs/obj/Debug/net6.0/proofs.genruntimeconfig.cache
+/home/hojelse/repo/lillekat-2/proofs/obj/Debug/net6.0/ref/proofs.dll
