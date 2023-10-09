@@ -1,6 +1,0 @@
-[remote "open"]
-  url = open.kattis.com/problems/proofs
-[remote "itu"]
-  url = itu.kattis.com/problems/proofs
-[contest "h3zkgt"]
-  url = open.kattis.com/contests/h3zkgt/problems/proofs
